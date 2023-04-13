@@ -1,4 +1,6 @@
-
 def plus_number():
-    c = a + b
-    return c
+    numb_1 = int(input('введите число :'))
+    numb_2 = int(input('введите число :'))
+    result = numb_1 + numb_2
+
+    return result
